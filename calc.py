@@ -1,6 +1,6 @@
-def add2(arg, arg2):
-    print(arg+arg2)
-    return arg+arg2
+def add2(arg1, arg2):
+    print(arg1+arg2)
+    return arg1+arg2
 
 def sub2(arg1, arg2):
     print(arg1-arg2)
